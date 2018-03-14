@@ -3,3 +3,4 @@ feature 2
 feature 3 *hotfix*
 feature 4
 feature 5
+feature 6
